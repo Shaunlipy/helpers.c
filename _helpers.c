@@ -1,3 +1,9 @@
+// _helpers.write_idx(filename, writableObject, listOfList, counts):
+// filename: XXX.idx
+// writeObject, type "mmap.mmap"
+// listOfList: e.g. [[], [], [], [('!R\x062\xe3i\xeb\x8aoKc\x85\xb9\x9d\x84\$9d\x0c\xfa\x98\x9a', 573331096, 781)], [],]
+// counts: int
+
 #define _LARGEFILE64_SOURCE 1
 #define PY_SSIZE_T_CLEAN 1
 #undef NDEBUG
