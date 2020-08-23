@@ -1,3 +1,4 @@
+// https://github.com/bup/bup/blob/0.29.x/lib/bup/_helpers.c
 // count = _helpers.write_idx(filename, idx_map, self.idx, self.count)
 // _helpers.write_idx(filename, writableObject, listOfList, counts):
 // filename: XXX.idx
