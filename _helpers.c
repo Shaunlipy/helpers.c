@@ -1,3 +1,4 @@
+// count = _helpers.write_idx(filename, idx_map, self.idx, self.count)
 // _helpers.write_idx(filename, writableObject, listOfList, counts):
 // filename: XXX.idx
 // writeObject, type "mmap.mmap"
